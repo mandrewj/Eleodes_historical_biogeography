@@ -1,0 +1,29 @@
+anthracinus|Eleodes anthracinus|Eleodes quadricollis anthracina|Eleodes quadricollis anthracinus|Eleodes anthracinus lustrans
+arcuatus|Eleodes arcuatus|Eleodes arcuata|Eleodes (Litheleodes) arcuatus
+armatus|Eleodes armatus|Eleodes armata
+barbatus|Eleodes barbatus|Eleodes barbata
+carbcarb|Eleodes carbonaria|Eleodes c.carbonarius|Eleodes carbonarius carbonarius
+carbobs|Eleodes carbonarius obsoleta|Eleodes carbonarius obsoletus|Eleodes carbonarius_obsoletus|Eleodes obsoleta|Eleodes obsoleta porcata
+carbchi|Eleodes carbonarius chihuahuaensis|Eleodes carbonarius nitidus|Eleodes nitida|Eleodes nitidus|Eleodes ampla|Eleodes amplus|Eleodes lineata|Eleodes lineatus
+caudiferus|Eleodes caudifera|Eleodes caudiferus|Eleodes caudifera glabra|Eleodes caudifera f. glabra|Eleodes caudifera scabra|Eleodes caudifera f. scabra|Eleodes caudiferus scabrus
+debilis|Eleodes debilis|Eleodes Melaneleodes debilis
+delicatus|Eleodes delicata|Eleodes delicatus
+dissimilis|Eleodes dissimilis|Eleodes dissimilis dissimilis
+extricatus|Eleodes extricatus|Eleodes extricata|Eleodes exticatus
+extariz|Eleodes extricatus arizonensis|Eleodes extricata arizonensis
+gracilis|Eleodes gracilis
+gracdist|Eleodes gracilis distans|Eleodes gracilis var. distans
+grandicollis|Eleodes grandicollis|Eleodes grandicollis valida
+hepburni|Eleodes hepburni|Eleodes compressitarsis|Eleodes Steneleodes compressitarsis|Eleodes beameri
+hispilabris|Eleodes hispilabris|Eleodes hispilabris hispilabris|Eleodes hispilabris (Say, 1824)
+longicollis|Eleodes longicollis|Eleodes longicollis punctigerus|
+nigrinus|Eleodes nigringa|Eleodes nigrinus|Eleodes (Metablapylis) nigrinus
+obscdisp|Eleodes obscura dispersa|Eleodes obscura var. dispersa|Eleodes obscurus dispersus
+obscsulc|Eleodes obscura sulcipennis|Eleodes obscurus sulcipennis|
+pilosus|Eleodes pilosa|Eleodes pilosus
+pimelioides|Eleodes pimelioides
+sponsus|Eleodes sponsa|Eleodes sponsus
+subnitens|Eleodes subnitens
+tribulus|Eleodes tribulus|Eleodes caudatus
+tricostatus|Eleodes tricostata|Eleodes tricostatus
+madrensis|Eleodes madrensis
